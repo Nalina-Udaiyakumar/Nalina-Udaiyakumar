@@ -2,6 +2,7 @@
 ##### Join me as I try to get some mundane work off our hands (or, head) by writing code
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nalina-Udaiyakumar&label=Profile%20views&color=0e75b6&style=flat" alt="Nalina-Udaiyakumar"/> </p>
+Profile view counter courtesy: [Anton Komarev] (https://github.com/antonkomarev/github-profile-views-counter)
 
 - Data Science and AI
   - Web Scraping
