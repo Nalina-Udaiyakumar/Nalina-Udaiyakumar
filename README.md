@@ -12,6 +12,6 @@ Profile view counter courtesy: [Anton Komarev] (https://github.com/antonkomarev/
   - Machine learning models
 
 - Apps and Automation
-  - Python Dash app to search family doctors in KW region, Canada (https://github.com/Nalina-Udaiyakumar/KWCG-family-doctors)
+  - Python Dash app to search family doctors in greater Kitchener-Waterloo region, Canada (https://github.com/Nalina-Udaiyakumar/KWCG-family-doctors)
 
 --> Connect with me on <a href="https://www.linkedin.com/in/nalina-udaiyakumar-6b15a3240/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nalina Udaiyakumar" height="15" width="20"/></a> or <a href="https://twitter.com/nalina_uday" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Nalina-Udaiyakumar" height="15" width="20"/></a> 
