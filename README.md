@@ -8,6 +8,7 @@ Profile view counter courtesy: [Anton Komarev] (https://github.com/antonkomarev/
   - Web Scraping
   - Data analysis
   - Regression modelling
+  - Classification & clustering
   - Time Series forecasting
   - Machine learning models
 
