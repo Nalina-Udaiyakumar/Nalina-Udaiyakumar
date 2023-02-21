@@ -7,10 +7,11 @@ Profile view counter courtesy: [Anton Komarev] (https://github.com/antonkomarev/
 - Data Science and AI
   - Web Scraping
   - Data analysis
-  - Regression modelling
+  - Regression modeling
   - Classification & clustering
   - Time Series forecasting
   - Machine learning models
+  - NLP & Text mining
 
 - Apps and Automation
   - Python Dash app to search family doctors in greater Kitchener-Waterloo region, Canada (https://github.com/Nalina-Udaiyakumar/KWCG-family-doctors)
